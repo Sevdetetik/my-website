@@ -51,3 +51,12 @@ Yeni bir terminal penceresi açın (Backend terminalini kapatmayın) ve aşağı
 *   **Node.js API:** Proje verilerini ve iletişim formunu yöneten gerçek backend.
 *   **Tailwind CSS:** Modern ve responsive tasarım.
 *   **Framer Motion:** Akıcı animasyonlar ve sayfa geçişleri.
+
+Proje Fotoğrafları
+<img width="1366" height="637" alt="Ekran görüntüsü 2025-12-07 234320" src="https://github.com/user-attachments/assets/d3ab8dae-834f-4566-894a-7005b0f22ef2" />
+<img width="1366" height="641" alt="Ekran görüntüsü 2025-12-07 234401" src="https://github.com/user-attachments/assets/d492efc2-a6b0-4cac-8d18-d05235d3a596" />
+<img width="1366" height="635" alt="Ekran görüntüsü 2025-12-07 234419" src="https://github.com/user-attachments/assets/3095db20-9cff-41ca-ba60-ba0cce10898c" />
+<img width="1357" height="637" alt="Ekran görüntüsü 2025-12-07 234442" src="https://github.com/user-attachments/assets/65e4d798-6f02-4610-9747-12c882dff500" />
+
+
+
